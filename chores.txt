@@ -1,0 +1,6 @@
+[Dishes]
+[Kitchen]
+[Dining room]
+[Living room]
+[Sweep]
+[Patio]
